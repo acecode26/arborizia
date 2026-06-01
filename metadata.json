@@ -1,0 +1,6 @@
+{
+  "name": "ArborizIA Belém",
+  "description": "Análise inteligente e monitoramento de arborização urbana na Região Metropolitana de Belém com mapas interativos e IA.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
